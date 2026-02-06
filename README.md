@@ -84,17 +84,23 @@ Pinia actúa como el almacén global de la aplicación.
 
 ---
 
-## 💻 Desarrollo Local
+### **Pasos para Ejecutar el Proyecto**
 
-```bash
-# Instalar dependencias
-npm install
+1. **Clonar el Repositorio**:
+   ```bash
+   git clone https://github.com/EdisonGP/Pizza-Shop-Vue-3.git
+   cd tu-repositorio
+   ```
+2. Instala las dependencias necesarias utilizando **npm**:
 
-# Iniciar servidor de desarrollo
-npm run dev
+    ```bash
+    npm install
+    ```
+3. Finalmente, ejecuta la aplicación:
 
-# Construir para producción
-npm run build
+    ```bash
+    npm run dev
+    
 ```
 
 ## Licencia
