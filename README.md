@@ -1,6 +1,6 @@
 # 🍕 Pizza Shop – Frontend (Vue 3 + Vuetify)
 
-![Pizza Shop Preview](public/imagenbase.png)
+![Pizza Shop Preview](public/imagebase.png)
 
 Este proyecto es el **frontend de una aplicación web de tienda de pizzas**, desarrollada con **Vue 3**, que consume una **API REST construida en FastAPI**.
 
